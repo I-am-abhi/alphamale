@@ -3,6 +3,11 @@
     "name": "Alpha Male",
     "slug": "alphamale",
     "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "fc6badcb-b70b-42f8-b712-741e984a701d"
+      }
+    },
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "icon": "./assets/icon.png",
@@ -39,7 +44,7 @@
         }
       ]
     ],
-    "scheme": "alphamale"
+    "scheme": "alphamale",
+    "owner": "abhisekhbisoyi444"
   }
 }
-
